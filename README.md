@@ -33,7 +33,7 @@ Un PDF in formato A4 orizzontale:
 | **06** | Il linguaggio a confronto — quali temi i competitor mettono per iscritto e il brand no |
 | **07** | Nota metodologica — cosa non è stato possibile verificare, e perché |
 
-Un esempio completo con dati fittizi: [`esempio-report.pdf']
+Un esempio completo con dati fittizi: [`esempio-report.pdf'] https://github.com/fabiogiacomini/Agente-Analisi-Brand/blob/main/esempio-report.pdf
 
 ---
 
