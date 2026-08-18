@@ -145,7 +145,7 @@ documento.
 
 ## Licenza e utilizzo
 
-**Tutti i diritti riservati.** Vedi LICENSE.
+**Tutti i diritti riservati.** Vedi LICENSE (https://github.com/fabiogiacomini/Agente-Analisi-Brand/blob/main/license).
 
 Questo repository ha finalità dimostrative. Il workflow eseguibile, i prompt di sistema e
 il template del documento non sono inclusi e non sono concessi in uso, riproduzione o opera
