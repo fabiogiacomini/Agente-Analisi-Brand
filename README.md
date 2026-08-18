@@ -1,7 +1,7 @@
 # Agente-Analisi-Brand
 
 Sistema automatico che, dato il nome di un brand e i suoi canali ufficiali, produce in
-tre minuti un documento PDF di analisi pronto per un primo incontro commerciale.
+pochi minuti un documento PDF di analisi pronto per un primo incontro commerciale.
 
 Progettato e realizzato da Fabio Giacomini. Questo repository è una scheda di progetto:
 documenta l'architettura e le scelte, **non contiene il workflow eseguibile**.
